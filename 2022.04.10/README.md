@@ -1,4 +1,4 @@
-<h1>SoftUni Internet Movie Database – SU¬-IMDb</h1>
+<h1>SoftUni Internet Movie Database – SU-IMDb</h1>
 
 <p>The biggest international movie festival is about to begin. They hired a team of programmers to help manage their database. Now you are the leader of the team and you need to manage the system so they can keep track of all movies and actors and finally on the ceremony to give the annual awards to the winners.</p>
 
