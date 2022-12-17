@@ -43,5 +43,24 @@
 
 <p>Submit your solutions in Judge on the first task. Submit all SQL table creation statements.</p>
 <p>You will also be given a data.sql file. It will contain a dataset with random data which you will need to store in your local database. This data will be given to you so you will not have to think of data and lose essential time in the process. The data is in the form of INSERT statement queries. </p>
+
+<h2>Section 2: Data Manipulation Language (DML) – 30 pts</h2>
+<p>Here we need to do several manipulations in the database, like changing data, adding data etc. </p>
+<p>Select and join only tables and columns that are needed in the exercises. Any additional or less information will be considered wrong. </p>
+
+<h3>02.	Insert</h3>
+<p>You will have to insert records of data into the actors table.</p>
+<p>The new data will be based on actors with id equal or less than 10. Insert data in the actors table with the following values:</p>
+<p>•	first_name – set it to the first name of the actor but reversed.</p>
+<p>•	last_name – set it to the last name of the actor but reversed.</p>
+<p>•	birthdate – set it to the birthdate of the actor but 2 days earlier.</p>
+<p>•	height – set it to the height of the actor plus 10.</p>
+<p>•	awards – set them to the country_id.</p>
+<p>•	country_id – set it to the id of Armenia.</p>
+
+
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
