@@ -58,8 +58,10 @@
 <p>•	awards – set them to the country_id.</p>
 <p>•	country_id – set it to the id of Armenia.</p>
 
+<h3>03.	Update</h3>
+<p>Reduce all movies runtime by 10 minutes for movies with movies_additional_info id equal to or greater than 15 and less than 25 (inclusive).</p>
 
-<p></p>
+
 <p></p>
 <p></p>
 <p></p>
