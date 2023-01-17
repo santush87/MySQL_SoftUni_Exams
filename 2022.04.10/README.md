@@ -64,6 +64,29 @@
 <h3>04.	Delete</h3>
 <p>Delete all countries that don’t have movies.</p>
 
+
+<h2>Section 3: Querying – 50 pts</h2>
+<p>And now we need to do some data extraction. Note that the example results from this section use a fresh database. It is highly recommended that you clear the database that has been manipulated by the previous problems from the DML section and insert again the dataset you’ve been given, to ensure maximum consistency with the examples given in this section.</p>
+
+<h3>05.	Countries</h3>
+<p>Extract from the softuni_imdb system database, info about the name of countries.</p>
+<p>Order the results by currency in descending order and then by id.</p>
+<p>Required Columns</p>
+
+<p>•	id (countries)</p>
+<p>•	name</p>
+<p>•	continent</p>
+<p>•	currency</p>
+
+<h4>Example</h4>
+
+![Screenshot_1](https://user-images.githubusercontent.com/73018624/212849747-f849db6a-a3e3-4b29-9a95-01ec277c812b.jpg)
+
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
