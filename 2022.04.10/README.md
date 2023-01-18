@@ -98,12 +98,53 @@
 
 ![Screenshot_1](https://user-images.githubusercontent.com/73018624/213120053-b6e6df03-87c9-4751-8139-77353c7914b6.jpg)
 
+<h3>07.	Movie casting</h3>
+<p>Some actors are free and can apply the casting for a new movie. You must search for them and prepare their documents.</p>
+<p>Write a query that returns:  full name, email, age and height for all actors that are not participating in a movie.</p>
+<p>To find their email you must take their last name reversed followed by the number of characters of their last name and then the casting email “@cast.com”</p>
+<p>Order by height in ascending order.</p>
+<p>Required Columns</p>
 
+<p>•	full_name (first_name + " " + last_name)</p>
+<p>•	email (last_name reversed + number of characters from the last_name + @cast.com)</p>
+<p>•	age (2022 – the year of the birth)</p>
+<p>•	height</p>
+<h4>Example</h4>
+
+![Screenshot_2](https://user-images.githubusercontent.com/73018624/213120760-a5635f3e-db60-49fc-a5a2-6cd921510b44.jpg)
+
+
+
+<h3></h3>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+
 <p></p>
 <p></p>
 <p></p>
