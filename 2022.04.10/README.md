@@ -83,6 +83,25 @@
 ![Screenshot_1](https://user-images.githubusercontent.com/73018624/212849747-f849db6a-a3e3-4b29-9a95-01ec277c812b.jpg)
 
 
+<h3>06.	Old movies</h3>
+<p>Write a query that returns: title, runtime, budget and release_date from table movies_additional_info. Filter movies which have been released from 1996 to 1999 year (inclusive).</p>
+<p>Order the results ascending by runtime then by id and show only the first 20 results.</p>
+<p>Required Columns</p>
+
+<p>•	id</p>
+<p>•	title</p>
+<p>•	runtime</p>
+<p>•	budget</p>
+<p>•	release_date</p>
+
+<h4>Example</h4>
+
+![Screenshot_1](https://user-images.githubusercontent.com/73018624/213120053-b6e6df03-87c9-4751-8139-77353c7914b6.jpg)
+
+
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
