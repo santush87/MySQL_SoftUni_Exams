@@ -115,13 +115,17 @@
 
 
 
-<h3></h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h3>08.	International festival</h3>
+<p>The international movie festival is about to begin. We need to find the countries which are nominated to host the event.</p>
+<p>Extract from the database, the name the country and the number of movies created in this country. The number of movies must be higher or equal to 7.</p>
+<p>Order the results descending by name.</p>
+<p>Required Columns</p>
+<p>•	name (country)</p>
+<p>•	movies_count (number of movies created in the country)</p>
+<h4>Example</h4>
+
+![Screenshot_1](https://user-images.githubusercontent.com/73018624/213392701-6e92786e-05be-4540-8b74-188f039be9db.jpg)
+
 
 <h3></h3>
 <p></p>
