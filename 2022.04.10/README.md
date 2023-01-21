@@ -64,6 +64,101 @@
 <h3>04.	Delete</h3>
 <p>Delete all countries that don’t have movies.</p>
 
+
+<h2>Section 3: Querying – 50 pts</h2>
+<p>And now we need to do some data extraction. Note that the example results from this section use a fresh database. It is highly recommended that you clear the database that has been manipulated by the previous problems from the DML section and insert again the dataset you’ve been given, to ensure maximum consistency with the examples given in this section.</p>
+
+<h3>05.	Countries</h3>
+<p>Extract from the softuni_imdb system database, info about the name of countries.</p>
+<p>Order the results by currency in descending order and then by id.</p>
+<p>Required Columns</p>
+
+<p>•	id (countries)</p>
+<p>•	name</p>
+<p>•	continent</p>
+<p>•	currency</p>
+
+<h4>Example</h4>
+
+![Screenshot_1](https://user-images.githubusercontent.com/73018624/212849747-f849db6a-a3e3-4b29-9a95-01ec277c812b.jpg)
+
+
+<h3>06.	Old movies</h3>
+<p>Write a query that returns: title, runtime, budget and release_date from table movies_additional_info. Filter movies which have been released from 1996 to 1999 year (inclusive).</p>
+<p>Order the results ascending by runtime then by id and show only the first 20 results.</p>
+<p>Required Columns</p>
+
+<p>•	id</p>
+<p>•	title</p>
+<p>•	runtime</p>
+<p>•	budget</p>
+<p>•	release_date</p>
+
+<h4>Example</h4>
+
+![Screenshot_1](https://user-images.githubusercontent.com/73018624/213120053-b6e6df03-87c9-4751-8139-77353c7914b6.jpg)
+
+<h3>07.	Movie casting</h3>
+<p>Some actors are free and can apply the casting for a new movie. You must search for them and prepare their documents.</p>
+<p>Write a query that returns:  full name, email, age and height for all actors that are not participating in a movie.</p>
+<p>To find their email you must take their last name reversed followed by the number of characters of their last name and then the casting email “@cast.com”</p>
+<p>Order by height in ascending order.</p>
+<p>Required Columns</p>
+
+<p>•	full_name (first_name + " " + last_name)</p>
+<p>•	email (last_name reversed + number of characters from the last_name + @cast.com)</p>
+<p>•	age (2022 – the year of the birth)</p>
+<p>•	height</p>
+<h4>Example</h4>
+
+![Screenshot_2](https://user-images.githubusercontent.com/73018624/213120760-a5635f3e-db60-49fc-a5a2-6cd921510b44.jpg)
+
+
+
+<h3>08.	International festival</h3>
+<p>The international movie festival is about to begin. We need to find the countries which are nominated to host the event.</p>
+<p>Extract from the database, the name the country and the number of movies created in this country. The number of movies must be higher or equal to 7.</p>
+<p>Order the results descending by name.</p>
+<p>Required Columns</p>
+<p>•	name (country)</p>
+<p>•	movies_count (number of movies created in the country)</p>
+<h4>Example</h4>
+
+![Screenshot_1](https://user-images.githubusercontent.com/73018624/213392701-6e92786e-05be-4540-8b74-188f039be9db.jpg)
+
+
+<h3>08.	International festival</h3>
+<p>The international movie festival is about to begin. We need to find the countries which are nominated to host the event.</p>
+<p>Extract from the database, the name the country and the number of movies created in this country. The number of movies must be higher or equal to 7.</p>
+<p>Order the results descending by name.</p>
+<p>Required Columns</p>
+<p>•	name (country)</p>
+<p>•	movies_count (number of movies created in the country)</p>
+<h4>Example</h4>
+
+![Screenshot_1](https://user-images.githubusercontent.com/73018624/213690549-77c800bf-cd05-49c5-a82d-77d8e3d213c5.jpg)
+
+
+<p></p>
+<p></p>
+
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
