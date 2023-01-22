@@ -151,17 +151,24 @@
 
 ![Screenshot_1](https://user-images.githubusercontent.com/73018624/213907055-59306b05-2bdf-490e-8804-41c48d323a67.jpg)
 
+<h2>Section 4: Programmability – 30 pts</h2>
+<p>The time has come for you to prove that you can be a little more dynamic on the database. So, you will have to write several procedures.</p>
+
+<h3>10.	History movies</h3>
+<p>Create a user defined function with the name udf_actor_history_movies_count(full_name VARCHAR(50)) that receives an actor’s full name and returns the total number of history movies in which the actor has a role.</p>
+<p>Required Columns</p>
+<p>•	history_movies(udf_customer_products_count)</p>
+<h4>Example</h4>
+
+![Screenshot_2](https://user-images.githubusercontent.com/73018624/213907142-da1e6ad8-25a7-409f-ab86-8115077b2e3c.jpg)
 
 
-<h3></h3>
-<p></p>
-<p></p>
-<p></p>
+<h3>10.	History movies</h3>
 <p></p>
 <p></p>
 
 
-<p></p>
+
 <p></p>
 <p></p>
 <p></p>
