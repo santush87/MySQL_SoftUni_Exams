@@ -127,18 +127,6 @@
 ![Screenshot_1](https://user-images.githubusercontent.com/73018624/213392701-6e92786e-05be-4540-8b74-188f039be9db.jpg)
 
 
-<h3>08.	International festival</h3>
-<p>The international movie festival is about to begin. We need to find the countries which are nominated to host the event.</p>
-<p>Extract from the database, the name the country and the number of movies created in this country. The number of movies must be higher or equal to 7.</p>
-<p>Order the results descending by name.</p>
-<p>Required Columns</p>
-<p>•	name (country)</p>
-<p>•	movies_count (number of movies created in the country)</p>
-<h4>Example</h4>
-
-![Screenshot_1](https://user-images.githubusercontent.com/73018624/213690549-77c800bf-cd05-49c5-a82d-77d8e3d213c5.jpg)
-
-
 <h3>09.	Rating system</h3>
 <p>From the database extract the title, rating, subtitles, and the budget of movies. If the rating is equal or less than 4 the user must see “poor”, above 4 and less or equal to 7 “good” and above that it should display “excellent”. If the movie has subtitles the user should see “english”, otherwise “-“.</p>
 <p>Order the results descending by budget.</p>
