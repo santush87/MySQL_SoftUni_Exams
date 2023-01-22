@@ -163,13 +163,12 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/73018624/213907142-da1e6ad8-25a7-409f-ab86-8115077b2e3c.jpg)
 
 
-<h3>10.	History movies</h3>
-<p></p>
-<p></p>
+<h3>11.	Movie awards</h3>
+<p>A movie has won an award. Your task is to find all actors and give them the award.</p>
+<p>Create a stored procedure udp_award_movie which accepts the following parameters:</p>
+<p>•	movie_title(VARCHAR(50))</p>
+<p>Extracts data about the movie with the given title and find all actors that play in it and increase their awards with 1.</p>
 
+<h4>Result</h4>
 
-
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+![Screenshot_3](https://user-images.githubusercontent.com/73018624/213907211-80370e64-bf5a-445f-aa34-bcb2590ab329.jpg)
