@@ -139,15 +139,19 @@
 ![Screenshot_1](https://user-images.githubusercontent.com/73018624/213690549-77c800bf-cd05-49c5-a82d-77d8e3d213c5.jpg)
 
 
-<p></p>
-<p></p>
+<h3>09.	Rating system</h3>
+<p>From the database extract the title, rating, subtitles, and the budget of movies. If the rating is equal or less than 4 the user must see “poor”, above 4 and less or equal to 7 “good” and above that it should display “excellent”. If the movie has subtitles the user should see “english”, otherwise “-“.</p>
+<p>Order the results descending by budget.</p>
+<p>Required Columns</p>
+<p>•	title</p>
+<p>•	rating (less or equal to 4 – “poor”, above 4 and less or equal to 7 – “good”, above 7 – “excellent”)</p>
+<p>•	subtitles (if it has subtitles it– “english”, otherwise – “-“)</p>
+<p>•	budget</p>
+<h4>Example</h4>
 
-<h3></h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+![Screenshot_1](https://user-images.githubusercontent.com/73018624/213907055-59306b05-2bdf-490e-8804-41c48d323a67.jpg)
+
+
 
 <h3></h3>
 <p></p>
