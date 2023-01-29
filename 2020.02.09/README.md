@@ -21,19 +21,48 @@
 <p>•	towns - contains information about the towns.</p>
 <p>o	Each town has a country</p>
 <p>•	countries – contains information about current country.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+
+<h2>Section 1: Data Definition Language (DDL) – 40 pts</h2>
+<p>Make sure you implement the whole database correctly on your local machine, so that you could work with it.</p>
+<p>The instructions you’ll be given will be the minimal required for you to implement the database.</p>
+
+<h3>1.	Table Design</h3>
+<p>You have been tasked to create the tables in the database by the following models:</p>
+
+<p>players</p>
+
+![Screenshot_2](https://user-images.githubusercontent.com/73018624/215322342-330174ba-8a5f-4a63-b9df-c00a9ff85c36.jpg)
+
+<p>players_coaches</p>
+
+![Screenshot_3](https://user-images.githubusercontent.com/73018624/215322400-df80e1ec-d580-43fb-bc78-ba9b1dc6be7c.jpg)
+
+<p>coaches</p>
+
+![Screenshot_4](https://user-images.githubusercontent.com/73018624/215322436-0b939ffc-aca6-469e-adf6-886b62f792e5.jpg)
+
+<p>skills_data	</p>
+
+![Screenshot_5](https://user-images.githubusercontent.com/73018624/215322475-48b1e518-9e67-40ee-a8f9-e420190bc24d.jpg)
+
+<p>teams</p>
+
+![Screenshot_6](https://user-images.githubusercontent.com/73018624/215322505-85a9ba8a-38e1-4d41-b0e3-5d9fe884cefc.jpg)
+
+<p>stadiums</p>
+
+![Screenshot_7](https://user-images.githubusercontent.com/73018624/215322531-7c4ec152-f173-48e9-9327-44244c99c68b.jpg)
+
+<p>towns</p>
+
+![Screenshot_8](https://user-images.githubusercontent.com/73018624/215322559-e3e78477-7e4b-4c95-8263-8c3f1938b981.jpg)
+
+<p>countries</p>
+
+![Screenshot_9](https://user-images.githubusercontent.com/73018624/215322596-7c0a3f83-bb55-4a50-8247-e06bcf611c30.jpg)
+
+<p>Submit your solutions in Judge on the first task. Submit all SQL table creation statements.</p>
+<p>You will also be given a data.sql file. It will contain a dataset with random data which you will need to store in your local database. This data will be given to you so you don’t have to imagine it and lose precious time in the process. The data is in the form of INSERT statement queries.</p>
 <p></p>
 <p></p>
 <p></p>
