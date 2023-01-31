@@ -63,12 +63,18 @@
 
 <p>Submit your solutions in Judge on the first task. Submit all SQL table creation statements.</p>
 <p>You will also be given a data.sql file. It will contain a dataset with random data which you will need to store in your local database. This data will be given to you so you don’t have to imagine it and lose precious time in the process. The data is in the form of INSERT statement queries.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+
+<h2>Section 2: Data Manipulation Language (DML) – 30 pts</h2>
+<p>Here we need to do several manipulations in the database, like changing data, adding data etc.</p>
+
+<h3>2.	Insert</h3>
+<p>You will have to insert records of data into the coaches table, based on the players table. </p>
+<p>For players with age over 45 (inclusive), insert data in the coaches table with the following values:</p>
+<p>•	first_name – set it to first name of the player</p>
+<p>•	last_name – set it to last name of the player.</p>
+<p>•	salary – set it to double as player’s salary. </p>
+<p>•	coach_level – set it to be equals to count of the characters in player’s first_name.</p>
+
+
 <p></p>
 <p></p>
