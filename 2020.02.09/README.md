@@ -75,6 +75,17 @@
 <p>•	salary – set it to double as player’s salary. </p>
 <p>•	coach_level – set it to be equals to count of the characters in player’s first_name.</p>
 
+<h3>3.	Update</h3>
+<p>Update all coaches, who train one or more players and their first_name starts with ‘A’. Increase their level with 1.</p>
 
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+
+
+<h3></h3>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
