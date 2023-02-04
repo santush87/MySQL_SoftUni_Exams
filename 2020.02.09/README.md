@@ -86,6 +86,52 @@
 <p>And now we need to do some data extraction. Note that the example results from this section use a fresh database. It is highly recommended that you clear the database that has been manipulated by the previous problems from the DML section and insert again the dataset you’ve been given, to ensure maximum consistency with the examples given in this section.</p>
 
 
+<h3>5.	Players </h3>
+<p>Extract from the Football Scout Database (fsd) database, info about all of the players. </p>
+<p>Order the results by players - salary descending.</p>
+<p>Required Columns</p>
+<p>•	first_name</p>
+<p>•	age</p>
+<p>•	salary</p>
+<h4>Example</h4>
+
+![Screenshot_1](https://user-images.githubusercontent.com/73018624/216768357-bfb7a44a-ca97-4b61-a66c-aa47e6034f42.jpg)
+
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
 <h3></h3>
 <p></p>
 <p></p>
