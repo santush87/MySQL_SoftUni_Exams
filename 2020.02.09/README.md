@@ -82,6 +82,8 @@
 <p>As you remember at the beginning of our work, we promoted several football players to coaches. Now you need to remove all of them from the table of players in order for our database to be updated accordingly.	</p>
 <p>Delete all players from table players, which are already added in table coaches. </p>
 
+<h2>Section 3: Querying – 50 pts</h2>
+<p>And now we need to do some data extraction. Note that the example results from this section use a fresh database. It is highly recommended that you clear the database that has been manipulated by the previous problems from the DML section and insert again the dataset you’ve been given, to ensure maximum consistency with the examples given in this section.</p>
 
 
 <h3></h3>
