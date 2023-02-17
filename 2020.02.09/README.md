@@ -97,12 +97,17 @@
 
 ![Screenshot_1](https://user-images.githubusercontent.com/73018624/216768357-bfb7a44a-ca97-4b61-a66c-aa47e6034f42.jpg)
 
-<h3></h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h3>6.	Young offense players without contract</h3>
+<p>One of the coaches wants to know more about all the young players (under age of 23) who can strengthen his team in the offensive (played on position ‘A’). As he is not paying a transfer amount, he is looking only for those who have not signed a contract so far (haven’t hire_date) and have strength of more than 50. Order the results ascending by salary, then by age.</p>
+<p>Required Columns</p>
+<p>•	id (player)</p>
+<p>•	full_name </p>
+<p>•	age</p>
+<p>•	position</p>
+<p>•	hire_date</p>
+<h4>Example</h4>
+
+![Screenshot_1](https://user-images.githubusercontent.com/73018624/219751902-17836985-d1ee-41e3-b2d8-2a8f34cc943c.jpg)
 
 <h3></h3>
 <p></p>
