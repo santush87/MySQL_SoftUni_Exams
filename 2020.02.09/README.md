@@ -109,12 +109,17 @@
 
 ![Screenshot_1](https://user-images.githubusercontent.com/73018624/219751902-17836985-d1ee-41e3-b2d8-2a8f34cc943c.jpg)
 
-<h3></h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h3>7.	Detail info for all teams</h3>
+<p>Extract from the database all of the teams and the count of the players that they have.</p>
+<p>Order the results descending by count of players, then by fan_base descending. </p>
+<p>Required Columns</p>
+<p>•	team_name</p>
+<p>•	established</p>
+<p>•	fan_base</p>
+<p>•	count_of_players</p>
+<h4>Example</h4>
+
+![Screenshot_2](https://user-images.githubusercontent.com/73018624/220152960-67b925f1-738a-45fe-b6b9-b579790c92ed.jpg)
 
 <h3></h3>
 <p></p>
