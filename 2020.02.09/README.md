@@ -121,12 +121,16 @@
 
 ![Screenshot_2](https://user-images.githubusercontent.com/73018624/220152960-67b925f1-738a-45fe-b6b9-b579790c92ed.jpg)
 
-<h3></h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h3>8.	The fastest player by towns</h3>
+<p>Extract from the database, the fastest player (having max speed), in terms of towns where their team played.</p>
+<p>Order players by speed descending, then by town name.</p>
+<p>Skip players that played in team ‘Devify’</p>
+<p>Required Columns</p>
+<p>•	max_speed</p>
+<p>•	town_name</p>
+<h4>Example</h4>
+
+![Screenshot_3](https://user-images.githubusercontent.com/73018624/220153361-91bd171f-76c3-4a0e-ae0e-c2a6d7fc96ec.jpg)
 
 <h3></h3>
 <p></p>
