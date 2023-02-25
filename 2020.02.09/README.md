@@ -132,12 +132,16 @@
 
 ![Screenshot_3](https://user-images.githubusercontent.com/73018624/220153361-91bd171f-76c3-4a0e-ae0e-c2a6d7fc96ec.jpg)
 
-<h3></h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h3>9.	Total salaries and players by country</h3>
+<p> And like everything else in this world, everything is ultimately about finances. Now you need to extract detailed information on the amount of all salaries given to football players by the criteria of the country in which they played.</p>
+<p>If there are no players in a country, display NULL.  Order the results by total count of players in descending order, then by country name alphabetically.</p>
+<p>Required Columns</p>
+<p>•	name (country)</p>
+<p>•	total_sum_of_salaries</p>
+<p>•	total_count_of_players</p>
+<h4>Example</h4>
+
+![Screenshot_1](https://user-images.githubusercontent.com/73018624/221346419-fd349c1b-e50e-4806-96c1-e33947d84f82.jpg)
 
 <h3></h3>
 <p></p>
