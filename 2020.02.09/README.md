@@ -146,14 +146,19 @@
 <h2>Section 4: Programmability – 30 pts</h2>
 <p>The time has come for you to prove that you can be a little more dynamic on the database. So, you will have to write several procedures.</p>
 
-<h3></h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h3>10.	Find all players that play on stadium</h3>
+<p>Create a user defined function with the name udf_stadium_players_count (stadium_name VARCHAR(30)) that receives a stadium’s name and returns the number of players that play home matches there.</p>
+<h4>Example</h4>
+
+![Screenshot_2](https://user-images.githubusercontent.com/73018624/221346516-28014d2a-16e2-4cad-a754-e9f8d4d54ccf.jpg)
+
+![Screenshot_3](https://user-images.githubusercontent.com/73018624/221346525-51b39184-6fc1-4abe-8214-eed46a905eae.jpg)
 
 <h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
