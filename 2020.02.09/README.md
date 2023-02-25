@@ -143,6 +143,9 @@
 
 ![Screenshot_1](https://user-images.githubusercontent.com/73018624/221346419-fd349c1b-e50e-4806-96c1-e33947d84f82.jpg)
 
+<h2>Section 4: Programmability – 30 pts</h2>
+<p>The time has come for you to prove that you can be a little more dynamic on the database. So, you will have to write several procedures.</p>
+
 <h3></h3>
 <p></p>
 <p></p>
