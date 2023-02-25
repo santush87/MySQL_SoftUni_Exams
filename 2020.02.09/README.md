@@ -154,13 +154,13 @@
 
 ![Screenshot_3](https://user-images.githubusercontent.com/73018624/221346525-51b39184-6fc1-4abe-8214-eed46a905eae.jpg)
 
-<h3></h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h3>11.	Find good playmaker by teams</h3>
+<p>Create a stored procedure udp_find_playmaker which accepts the following parameters:</p>
+<p>•	min_dribble_points </p>
+<p>•	team_name (with max length 45)</p>
+<p> And extracts data about the players with the given skill stats (more than min_dribble_points), played for given team (team_name) and have more than average speed for all players. Order players by speed descending. Select only the best one.</p>
+<p>Show all needed info for this player: full_name, age, salary, dribbling, speed, team name.</p>
+<p>CALL udp_find_playmaker (20, ‘Skyble’);</p>
+<h4>Result</h4>
+
+![Screenshot_4](https://user-images.githubusercontent.com/73018624/221346594-8b5de11a-a3b5-46bd-b743-39f1471ad2f3.jpg)
