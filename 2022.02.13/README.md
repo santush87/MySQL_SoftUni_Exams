@@ -19,9 +19,9 @@
               <p>o	Each order has a customer. </p>
                 <p>•	orders_products – a many to many mapping table between the orders and the products.</p>
            
-        
-    <p></p>
-     <p></p>
+    <h2>Section 1: Data Definition Language (DDL) – 40 pts</h2>    
+    <p>Make sure you implement the whole database correctly on your local machine, so that you could work with it.</p>
+     <p>The instructions you'll be given will be the minimal needed for you to implement the database.</p>
       <p></p>
        <p></p>
         <p></p>
