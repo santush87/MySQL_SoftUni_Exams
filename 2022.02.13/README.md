@@ -47,6 +47,8 @@
  
 <h3>03.	Update</h3>
      <p>Reduce all products quantity by 5 for products with quantity equal to or greater than 60 and less than 70 (inclusive).</p>
+      <h3>04.	Delete</h3>
+     <p>Delete all customers, who didn't order anything.</p>
       <p></p>
        <p></p>
        
@@ -54,12 +56,8 @@
      <p></p>
       <p></p>
        <p></p>
-       
-       <h3></h3>
-     <p></p>
-      <p></p>
+        <p></p>
        <p></p>
-       
        <h3></h3>
      <p></p>
       <p></p>
