@@ -45,8 +45,8 @@
         <p>•	salary – set it to double as player’s salary. </p>
     <p>•	coach_level – set it to be equals to count of the characters in player’s first_name.</p>
  
-<-- <h3></h3>
-     <p></p>
+<h3>03.	Update</h3>
+     <p>Reduce all products quantity by 5 for products with quantity equal to or greater than 60 and less than 70 (inclusive).</p>
       <p></p>
        <p></p>
        
