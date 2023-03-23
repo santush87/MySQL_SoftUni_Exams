@@ -58,7 +58,7 @@
        <p>•	id (categories)</p>
         <p>•	name</p>
         <h4>Example</h4>
-        ![Screenshot_3](https://user-images.githubusercontent.com/73018624/227310427-b6d9d902-6a35-4221-b1a6-66a70790cedf.jpg)
+![Screenshot_3](https://user-images.githubusercontent.com/73018624/227310427-b6d9d902-6a35-4221-b1a6-66a70790cedf.jpg)
 
         
        <p></p>
