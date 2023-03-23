@@ -50,13 +50,17 @@
       <h3>04.	Delete</h3>
      <p>Delete all customers, who didn't order anything.</p>
       <h2>Section 3: Querying – 50 pts</h2>
-       <p>And now we need to do some data extraction. Note that the example results from this section use a fresh database. It is highly recommended that you clear the database that has been manipulated by the previous problems from the DML section and insert again the dataset you’ve been given, to ensure maximum consistency with the examples given in this section.</p>
-       
-       <h3></h3>
-     <p></p>
-      <p></p>
-       <p></p>
-        <p></p>
+       <p>And now we need to do some data extraction. Note that the example results from this section use a fresh database. It is highly recommended that you clear the database that has been manipulated by the previous problems from the DML section and insert again the dataset you’ve been given, to ensure maximum consistency with the examples given in this section.</p> 
+       <h3>05.	Categories</h3>
+     <p>Extract from the online_store system database, info about the name of categories.</p>
+      <p>Order the results by category_name in descending order;</p>
+       <h4>Required Columns</h4>
+       <p>•	id (categories)</p>
+        <p>•	name</p>
+        <h4>Example</h4>
+        ![Screenshot_3](https://user-images.githubusercontent.com/73018624/227310427-b6d9d902-6a35-4221-b1a6-66a70790cedf.jpg)
+
+        
        <p></p>
        <h3></h3>
      <p></p>
