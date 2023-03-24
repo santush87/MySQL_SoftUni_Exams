@@ -61,18 +61,23 @@
 
 ![Screenshot_3](https://user-images.githubusercontent.com/73018624/227310427-b6d9d902-6a35-4221-b1a6-66a70790cedf.jpg)
 
-        
-       <p></p>
-       <h3></h3>
-     <p></p>
-      <p></p>
-       <p></p>
+        <h3>06.	Quantity</h3>
+       <p>Write a query that returns: product_id, brand_id, name and quantity from table products. Filter products which price is higher than 1000 and their quantity is lower than 30.</p>
+     <p>Order the results ascending by quantity_in_stock, then by id.</p>
+     <h4>Required Columns</h4>
+      <p>•	id (product)</p>
+       <p>•	brand_id </p>
+       <p>•	name (product)</p>
+       <p>•	quantity_in_stock</p>
+       <h4>Example</h4>
+       ![Screenshot_2](https://user-images.githubusercontent.com/73018624/227647429-ee688ab4-5e0c-4e87-8c1d-b8d558d78484.jpg)
+
        
        <h3></h3>
      <p></p>
       <p></p>
        <p></p>
-       
+       <p></p>
        <h3></h3>
      <p></p>
       <p></p>
