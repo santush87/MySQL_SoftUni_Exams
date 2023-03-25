@@ -70,13 +70,19 @@
        <p>•	quantity_in_stock</p>
        <h4>Example</h4>
        ![Screenshot_2](https://user-images.githubusercontent.com/73018624/227647429-ee688ab4-5e0c-4e87-8c1d-b8d558d78484.jpg)
+       <h3>07.	Review</h3>
+     <p>Write a query that returns: id, content, rating, picture_url and published_at for all reviews which content starts with ‘My’ and the characters of the content are more than 61 symbols.</p>
+      <p>Order by rating in descending order.</p>
+      <h4>Required Columns</h4>
+       <p>•	id (reviews)</p>
+       <p>•	content</p>
+       <p>•	rating</p>
+      <p>•	picture_url</p>
+       <p>•	published_at</p>
+       <h4>Example</h4>
+       ![Screenshot_2](https://user-images.githubusercontent.com/73018624/227704436-e4091fc8-9549-48f8-a4ac-8a985c9dee5b.jpg)
 
        
-       <h3></h3>
-     <p></p>
-      <p></p>
-       <p></p>
-       <p></p>
        <h3></h3>
      <p></p>
       <p></p>
