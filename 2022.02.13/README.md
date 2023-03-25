@@ -92,7 +92,7 @@
       <p>•	address</p>
        <p>•	order_datetime</p>
        <h4>Example</h4>
-       ![Screenshot_3](https://user-images.githubusercontent.com/73018624/227704548-b2bb9845-614c-47c3-972e-b74ee18eded1.jpg)
+  ![Screenshot_3](https://user-images.githubusercontent.com/73018624/227704548-b2bb9845-614c-47c3-972e-b74ee18eded1.jpg)
 
        
  <h3>09.	Best categories</h3>
@@ -103,7 +103,7 @@
        <p>•	name</p>
        <p>•	total_quantity (sum of all items in this category)</p>
        <h4>Example</h4>
-       ![Screenshot_4](https://user-images.githubusercontent.com/73018624/227704659-38e7f7f9-a4b4-462f-8aab-2821bceff352.jpg)
+  ![Screenshot_4](https://user-images.githubusercontent.com/73018624/227704659-38e7f7f9-a4b4-462f-8aab-2821bceff352.jpg)
 
        
        <p></p>
