@@ -83,10 +83,17 @@
        ![Screenshot_2](https://user-images.githubusercontent.com/73018624/227704436-e4091fc8-9549-48f8-a4ac-8a985c9dee5b.jpg)
 
        
-       <h3></h3>
-     <p></p>
-      <p></p>
-       <p></p>
+  <h3>08.	First customers</h3>
+     <p>There are many customers in our shop system, but we need to find only those who are clients from the beginning of the online store creation.</p>
+      <p>Extract from the database, the full name of customer, the address, and the date of order. The year must be lower or equal to 2018.</p>
+       <p>Order the results descending by full_name.</p>
+       <h4>Required Columns</h4>
+       <p>•	full_name (first_name + " " + last_name)</p>
+      <p>•	address</p>
+       <p>•	order_datetime</p>
+       <h4>Example</h4>
+       ![Screenshot_3](https://user-images.githubusercontent.com/73018624/227704548-b2bb9845-614c-47c3-972e-b74ee18eded1.jpg)
+
        
        <h3></h3>
      <p></p>
