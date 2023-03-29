@@ -100,10 +100,13 @@
        <p>•	total_quantity (sum of all items in this category)</p>
        <h4>Example</h4>
 ![Screenshot_4](https://user-images.githubusercontent.com/73018624/227704659-38e7f7f9-a4b4-462f-8aab-2821bceff352.jpg)
+      <h3>10.	Extract client cards count</h3>
+       <p>Create a user defined function with the name udf_customer_products_count(name VARCHAR(30)) that receives a customer’s first name and returns the total number of products he ordered;</p>
+       <h4>Required Columns</h4>      
+      <p>•	first_name (customers)</p>
+      <p>•	last_name (customers)</p>
+      <p>•	total_products (udf_customer_products_count)</p>
+      <h4>Example</h4>
+  ![Screenshot_2](https://user-images.githubusercontent.com/73018624/228626303-91efa570-70d2-4253-8ece-d0f0a3e80b9c.jpg)
 
-       <p></p>
-  <></>
-  <></>
-  <></>
-  -->
 
